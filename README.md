@@ -41,3 +41,9 @@ Incorporation of dynamic filters and slicers for a personalized and detailed exp
 
 The PowerBI data visualization project offers a comprehensive understanding of the 2012-2015 dataset, providing actionable insights for strategic decision-making.
 The interactive nature of the visualizations enhances user engagement and facilitates a deeper exploration of the data.
+<h2>Visualization </h2>
+
+![](https://github.com/AmareshMuddebihal/PowerBI-Data-Visualization-2012-15/blob/main/2012.jpg)
+![](https://github.com/AmareshMuddebihal/PowerBI-Data-Visualization-2012-15/blob/main/2013.jpg)
+![](https://github.com/AmareshMuddebihal/PowerBI-Data-Visualization-2012-15/blob/main/2014.jpg)
+![](https://github.com/AmareshMuddebihal/PowerBI-Data-Visualization-2012-15/blob/main/2015.jpg)
